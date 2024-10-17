@@ -1,4 +1,4 @@
-package me.godspunky.skyblock.features.launchpads;
+package com.skyblock.skyblock.item.launchpads;
 
 
 import org.bukkit.Location;
